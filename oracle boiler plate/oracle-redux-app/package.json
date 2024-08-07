@@ -1,0 +1,17 @@
+{
+  "name": "oracle-redux-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": {
+    "oracle-redux-app": "./index.js"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.6.1",
+    "commander": "^8.0.0",
+    "fs-extra": "^10.0.0",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-redux": "^7.2.5"
+  }
+}
